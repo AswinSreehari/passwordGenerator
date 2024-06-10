@@ -1,6 +1,6 @@
  # Password Generator
 
-(./src/assets/image.png)
+![Demo Image](./src/assets/image.png)
 
 
 ## About the Project
